@@ -7,7 +7,9 @@ function Nav() {
         <header>
             <div className="wrapper">
                 <div className="logo">
-                    <img src={logoImg} href="/" width="185" height="50" alt=""></img>
+                    <a href="/">
+                        <img src={logoImg} href="/" width="185" height="50" alt=""></img>
+                    </a>
                 </div>
 
                 <nav className="leftNav">
