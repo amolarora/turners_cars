@@ -413,18 +413,19 @@ header{
 
 .detailsBannerCards {
     margin: 0 auto;
-    max-width: 950px;
+    max-width: 1000px;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 0px;
     padding-top: 40px;
+    padding-right: 350px;
 }
 
 .detailsBannerCard{
     background-color: #fff;
     top: 0px;
     height: 6vh;
-    width: 100%;
+    width: 120%;
     position: relative;
     margin: auto ;
     border-radius: 25px;
@@ -450,6 +451,7 @@ header{
 
 .dash {
     padding-top: 10px;
+    padding-left: 30px;
 }
 
 .detailsContents {
