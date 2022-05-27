@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef1cc89.css",
+    "main.css": "/static/css/main.9da8dc49.css",
     "main.js": "/static/js/main.396b811c.js",
     "static/media/Screen Shot 2022-05-22 at 9.09.01 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 9.09.01 PM.baf840b30e1a605847a8.jpg",
     "static/media/Screen Shot 2022-05-24 at 2.55.30 PM.jpg": "/static/media/Screen Shot 2022-05-24 at 2.55.30 PM.59e3d9d7051f0a5b6030.jpg",
@@ -12,11 +12,11 @@
     "static/media/Screen Shot 2022-05-22 at 10.50.48 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 10.50.48 PM.ad5f8ed829aacf20f2b4.jpg",
     "static/media/turners-cars-logo-1.png": "/static/media/turners-cars-logo-1.faee84f40dcbf70aec24.png",
     "index.html": "/index.html",
-    "main.eef1cc89.css.map": "/static/css/main.eef1cc89.css.map",
+    "main.9da8dc49.css.map": "/static/css/main.9da8dc49.css.map",
     "main.396b811c.js.map": "/static/js/main.396b811c.js.map"
   },
   "entrypoints": [
-    "static/css/main.eef1cc89.css",
+    "static/css/main.9da8dc49.css",
     "static/js/main.396b811c.js"
   ]
 }
