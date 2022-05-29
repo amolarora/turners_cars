@@ -1,4 +1,4 @@
-import rectangle from '../images/Screen Shot 2022-05-26 at 3.27.22 PM.jpg';
+import rectangle from '../images/greyBar.jpg';
 
 function DetailsBanner() {
     return (

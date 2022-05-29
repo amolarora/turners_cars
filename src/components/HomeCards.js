@@ -1,5 +1,5 @@
-import cardImg from '../images/Screen Shot 2022-05-22 at 10.03.47 PM.jpg';
-import customersImg from '../images/Screen Shot 2022-05-22 at 10.50.48 PM.jpg';
+import cardImg from '../images/ourServices.jpg';
+import customersImg from '../images/reviews.jpg';
 
 
 function HomeCards() {

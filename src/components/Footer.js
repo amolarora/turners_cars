@@ -43,9 +43,9 @@ function Footer() {
                     <a href="/" className="footerLink">Careers</a><br></br>
                     <a href="/" className="footerLink">The Good Oil Blog</a><br></br>
                     <a href="/" className="footerLink">Sponsorship</a><br></br><br></br><br></br><br></br>
-                    <img src={facebook} width="33" alt=""></img>
-                    <img src={twitter} width="33" alt=""></img>
-                    <img src={instagram} width="33" alt=""></img>
+                    <a href="https://www.facebook.com/turnersNZ/" className="facebookLink" target="_blank" rel="noreferrer"><img src={facebook} width="33" alt=""></img></a>
+                    <a href="https://twitter.com/turnersgroupnz/" className="twitterInstagramLinks" target="_blank" rel="noreferrer"><img src={twitter} width="33" alt=""></img></a>
+                    <a href="https://www.instagram.com/turners_cars/" className="twitterInstagramLinks" target="_blank" rel="noreferrer"><img src={instagram} width="33" alt=""></img></a>
                 </div>
             </div>
         </div>

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9da8dc49.css",
-    "main.js": "/static/js/main.396b811c.js",
-    "static/media/Screen Shot 2022-05-22 at 9.09.01 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 9.09.01 PM.baf840b30e1a605847a8.jpg",
-    "static/media/Screen Shot 2022-05-24 at 2.55.30 PM.jpg": "/static/media/Screen Shot 2022-05-24 at 2.55.30 PM.59e3d9d7051f0a5b6030.jpg",
-    "static/media/Screen Shot 2022-05-22 at 10.03.47 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 10.03.47 PM.b099fe1a11e07839cb23.jpg",
-    "static/media/Screen Shot 2022-05-22 at 10.40.10 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 10.40.10 PM.3e59ed4c75741562a985.jpg",
+    "main.css": "/static/css/main.8c3bf87f.css",
+    "main.js": "/static/js/main.5e8fd7e0.js",
+    "static/media/homeBanner.jpg": "/static/media/homeBanner.baf840b30e1a605847a8.jpg",
+    "static/media/insuranceBcakground.jpg": "/static/media/insuranceBcakground.59e3d9d7051f0a5b6030.jpg",
+    "static/media/ourServices.jpg": "/static/media/ourServices.b099fe1a11e07839cb23.jpg",
+    "static/media/reviewsBackground.jpg": "/static/media/reviewsBackground.3e59ed4c75741562a985.jpg",
     "static/media/thirdPartyProperty.jpg": "/static/media/thirdPartyProperty.241243ca4e2768ecc745.jpg",
     "static/media/thirdPartyTheft.jpg": "/static/media/thirdPartyTheft.319147e2ef47aead9f61.jpg",
     "static/media/everydayPlus.jpg": "/static/media/everydayPlus.4706b23361ecd86bcfa3.jpg",
-    "static/media/Screen Shot 2022-05-22 at 10.50.48 PM.jpg": "/static/media/Screen Shot 2022-05-22 at 10.50.48 PM.ad5f8ed829aacf20f2b4.jpg",
+    "static/media/reviews.jpg": "/static/media/reviews.ad5f8ed829aacf20f2b4.jpg",
     "static/media/turners-cars-logo-1.png": "/static/media/turners-cars-logo-1.faee84f40dcbf70aec24.png",
     "index.html": "/index.html",
-    "main.9da8dc49.css.map": "/static/css/main.9da8dc49.css.map",
-    "main.396b811c.js.map": "/static/js/main.396b811c.js.map"
+    "main.8c3bf87f.css.map": "/static/css/main.8c3bf87f.css.map",
+    "main.5e8fd7e0.js.map": "/static/js/main.5e8fd7e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.9da8dc49.css",
-    "static/js/main.396b811c.js"
+    "static/css/main.8c3bf87f.css",
+    "static/js/main.5e8fd7e0.js"
   ]
 }
