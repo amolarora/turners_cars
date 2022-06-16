@@ -2,10 +2,5 @@ This is a React App project based on redesigning and implementing a better user 
 
 
 
-
-
-
-
-
-https://user-images.githubusercontent.com/49828763/174057541-74ddc197-c0b9-4588-971d-90f71aaa5a62.mp4
+https://user-images.githubusercontent.com/49828763/174058123-283f9f28-e707-48fc-8984-8b6c2eaf5c33.mp4
 
